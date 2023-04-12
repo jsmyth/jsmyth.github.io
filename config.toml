@@ -1,5 +1,5 @@
 baseURL = 'https://github.com/jsmyth/jsmyth.github.io/hobo-disc-golf'
-title = "Blonde"
+title = "Hobo Disc Golf"
 author = "wamo"
 languageCode = "en-us"
 DefaultContentLanguage = "en-us"
@@ -22,7 +22,7 @@ enableRobotsTXT = true
 base_color = "bg-gray-800"
 
 #Site description
-description = "We'll never be on Facebook and neither should you."
+description = "Blonde themed Hugo site for Hobo Disc Golf"
 
 # The number of articles to be displayed on a single page.
 paginator_pages = "5"
