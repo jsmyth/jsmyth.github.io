@@ -2,7 +2,7 @@
 title: "Panning for Gold Courses: Hidden Disc Golf Gems in Northern California"
 date: 2023-04-14T12:16:14-07:00
 draft: false
-thumbnail: /img/default.jpg
+thumbnail: /img/mj-copperopolis.jpeg
 ---
 ![Sunsetting on landscape view of a winding creek through California gold country](/img/mj-copperopolis.jpeg)
 
