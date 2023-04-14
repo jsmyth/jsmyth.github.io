@@ -17,7 +17,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 # favicon = "favicon.ico"
 
 # set to change date format
-# dateFormat = "2.1.2006"
+  dateFormat = "2023.09.21"
 
 # backgroundPath = "images/bg.jpg"
 
