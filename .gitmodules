@@ -1,3 +1,6 @@
 [submodule "themes/Blonde"]
 	path = themes/Blonde
 	url = https://github.com/opera7133/Blonde.git
+[submodule "themes/Massively"]
+	path = themes/Massively
+	url = https://github.com/curtiscde/hugo-theme-massively
