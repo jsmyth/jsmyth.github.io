@@ -10,7 +10,7 @@ Northern California's gold country is not only full of rugged and significant hi
 
 ### Hogan's Dam Disc Golf Course
 
-Nestled in Valley Springs, Hogan's Dam Disc Golf Course is a true gem that offers a challenging and picturesque disc golfing experience. Designed by renowned disc golf course architect Robert Trent Jones Jr., this 18-hole course features wooded fairways, strategic obstacles, and water hazards that demand accuracy and skill. The stunning views of the surrounding countryside make Hogan's Dam Disc Golf Course an absolute treasure for disc golf enthusiasts.
+Nestled in Valley Springs, Hogan's Dam Disc Golf Course is a true gem that offers a challenging and picturesque disc golfing experience. Designed by renowned disc golf course architect Robert Trent Jones Jr., this 18-hole course features wooded fairways, strategic obstacles, and water hazards that demand accuracy and skill. And this hidden gem has 2 other layouts hidden inside of IT, making this course a potential 54 hole haul! The stunning views of the surrounding countryside make Hogan's Dam Disc Golf Course an absolute treasure for disc golf enthusiasts.
 
 ### Black Creek Park Disc Golf Course
 
@@ -18,7 +18,7 @@ Located in Copperopolis, Black Creek Park Disc Golf Course is a stunning course 
 
 ### Feather Garden Disc Golf Course
 
-Tucked away in the picturesque town of Placerville, Feather Garden is a private disc golf course that is a literal gem (trust me, it makes sense!) which offers a challenging and enjoyable disc golfing experience for players of all skill levels. This 18-hole course features wooded fairways, elevation changes, and multiple basket positions with stunning views of the surrounding countryside. The friendly atmosphere and natural beauty of the Brison Family and the Sierra Nevada Mountains make Feather Garden Disc Golf Course a destination to bookmark and reserve for disc golfers of all levels.
+Tucked away in the picturesque town of Placerville, Feather Garden is a private disc golf course that is a literal gem (trust me, it makes sense!) which offers a challenging and enjoyable disc golfing experience for players of all skill levels. This 18-hole course features wooded fairways, elevation changes, and multiple basket positions with stunning views of the surrounding countryside. The friendly atmosphere and natural beauty of the Brison Family and the Sierra Nevada Mountains respectievely, make Feather Garden Disc Golf Course a destination to bookmark and reserve for disc golfers of all levels.
 
 ### Phil's Fury Community Disc Golf Course
 
