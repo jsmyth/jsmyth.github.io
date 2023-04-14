@@ -1,7 +1,7 @@
 ---
 title: "Panning for Gold Courses: Hidden Disc Golf Gems in Northern California"
 date: 2023-04-14T12:16:14-07:00
-draft: true
+draft: false
 ---
 # Panning for Gold Courses:
 ## Hidden Disc Golf Gems in Northern California
