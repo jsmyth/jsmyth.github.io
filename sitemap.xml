@@ -2,11 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://hobodiscgolf.com/</loc>
+    <lastmod>2023-04-14T12:16:14-07:00</lastmod>
+  </url><url>
+    <loc>https://hobodiscgolf.com/posts/panning-for-gold-courses/</loc>
+    <lastmod>2023-04-14T12:16:14-07:00</lastmod>
+  </url><url>
+    <loc>https://hobodiscgolf.com/posts/</loc>
+    <lastmod>2023-04-14T12:16:14-07:00</lastmod>
+  </url><url>
     <loc>https://hobodiscgolf.com/archives/</loc>
   </url><url>
     <loc>https://hobodiscgolf.com/categories/</loc>
-  </url><url>
-    <loc>https://hobodiscgolf.com/</loc>
   </url><url>
     <loc>https://hobodiscgolf.com/tags/</loc>
   </url>
