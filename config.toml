@@ -1,6 +1,6 @@
 baseURL = 'https://www.hobodiscgolf.com'
 title = "Hobo Disc Golf"
-subtitle = "Going NoMad"
+tagline = "Going NoMad"
 author = "wamo"
 languageCode = "en-us"
 DefaultContentLanguage = "en-us"
