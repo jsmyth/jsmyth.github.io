@@ -1,5 +1,5 @@
 ---
-title: "Panning for Gold Courses: Hidden Disc Golf Gems in Northern California"
+title: "Panning for Gold Courses"
 date: 2023-04-14T12:16:14-07:00
 draft: false
 thumbnail: /img/mj-copperopolis.jpeg
@@ -9,6 +9,8 @@ tags: [
   "#gold-country"
 ]
 ---
+## Hidden Disc Golf Gems in Northern California
+
 ![Sunsetting on landscape view of a winding creek through California gold country](/img/mj-copperopolis.jpeg)
 
 Northern California's gold country is not only full of rugged and significant history and stunning landscapes, but also hidden gem disc golf courses tucked away amidst the Sierra Nevada foothills. These courses offer a treasure trove of challenges and scenic beauty for avid disc golfers. Here are five disc golf courses in Northern California that are waiting to be discovered, each with its unique charm and allure.
