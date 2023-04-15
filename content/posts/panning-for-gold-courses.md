@@ -7,6 +7,7 @@ image: /img/mj-copperopolis.jpeg
 tags: [
   "#norcal",
   "#gold-country"
+]
 ---
 ![Sunsetting on landscape view of a winding creek through California gold country](/img/mj-copperopolis.jpeg)
 
