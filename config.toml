@@ -11,7 +11,7 @@ enableRobotsTXT = true
 #hasCJKLanguage = true
 
 # If you're using Google Analytics, you can enable this feature.
-#googleAnalytics = "G-1234567890"
+#googleAnalytics = "G-123456789"
 
 # Disqus Comment System
 #disqusShortname = ""
