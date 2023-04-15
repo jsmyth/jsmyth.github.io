@@ -1,5 +1,6 @@
 ---
-title: "Panning for Gold Courses: Hidden Disc Golf Gems in Northern California"
+title: "Panning for Gold Courses"
+subtitle: "Hidden Disc Golf Gems in Northern California"
 date: 2023-04-14T12:16:14-07:00
 draft: false
 thumbnail: /img/mj-copperopolis.jpeg
