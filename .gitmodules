@@ -1,6 +1,0 @@
-[submodule "themes/Blonde"]
-	path = themes/Blonde
-	url = https://github.com/opera7133/Blonde.git
-[submodule "themes/hugo-theme-massively"]
-	path = themes/hugo-theme-massively
-	url = https://github.com/curtiscde/hugo-theme-massively
