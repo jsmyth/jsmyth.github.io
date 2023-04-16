@@ -1,6 +1,5 @@
 baseURL = 'https://www.hobodiscgolf.com'
 title = "Hobo Disc Golf"
-tagline = "Going NoMad"
 author = "wamo"
 languageCode = "en-us"
 DefaultContentLanguage = "en-us"
@@ -33,6 +32,8 @@ archive_dropdown = "false"
 
 # Number of tags to be displayed.
 tagsLimit = 20
+
+tagline = "Going NoMad"
 
 # Dark mode by default : dark
 # Light mode by default : light
