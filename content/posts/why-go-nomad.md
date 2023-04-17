@@ -12,7 +12,7 @@ tags: [
 ---
 ![Majestic eagle soars through the woodes mountains](/img/bird_in_flight.png)
 
-Disc golf, a sport that captivates with its beauty and majesty, takes you on a journey through the wilderness, up the mountains, and into the heart of nature. It's like hiking with a purpose, a purpose to conquer the fairway and reach the basket in as few throws as possible. As you stand at the tee pad, surrounded by the towering trees and rugged terrain, the wilderness beckons, and you feel a sense of adventure coursing through your veins.
+Disc golf, a sport that captivates with its beauty and majesty, takes you on a journey through the wilderness, up the mountains, and into the heart of nature. It's like hiking with a purpose, a purpose to conquer the fairway and reach the basket in as few throws as possible. As you stand at the tee pad, surrounded by the thick woods and rocky hillsides, the wilderness beckons, and you feel a sense of adventure coursing through your veins.
 
 The vistas that disc golf leads you to are breathtaking, vistas that can only be reached on foot, with a disc in hand. The panoramic views, the snow-capped peaks in the distance, and the valleys below. You feel a sense of awe and wonder as you watch the disc glide through the air like a bird in flight, gracefully navigating its way towards the target.
 
