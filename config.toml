@@ -89,11 +89,11 @@ darkmode = "dark"
     url = "/"
     weight = 1
 
-#  [[menu.main]]
-#    identifier = "about"
-#    name = "About"
-#    url = "/about/"
-#    weight = 2
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 2
 
 #  [[menu.main]]
 #    identifier = "contact"
