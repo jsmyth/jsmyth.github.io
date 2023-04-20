@@ -13,6 +13,6 @@ While following along with some freinds on the trail, "Hobo Joe" heard a noise t
 
 Despite the hardships he faced on the road, "Chains" never lost his love for the game or his passion for the lifestyle that seems to go hand-in-hand so well with disc golf. He developed a reputation as a true sportsman, a consummate storyteller, and a friend to all who shared his love for the game.
 
-Years on the road have left their mark on Joe. His clothes are tattered, and his skin is weathered by years spent under the sun and stars. But his eyes still twinkle with the same wild spirit that drove him to West so many years ago, and his voice still rings with the same irreverent humor that has made him a legend in the disc golf world.
+Years on the road have left their mark on Joe. His clothes are tattered, and his skin is weathered by years spent under the sun and stars. But his eyes still twinkle with the same wild spirit that drove him West so many years ago, and his voice still rings with the same irreverent humor that has made him a legend in the disc golf world.
 
 Now as he approaches his twilight years, Joe has taken on the duty to share not only his story, but the stories of those who left their pages on the disc golf course to be discovered on their own time. Though he may be slowing down, Joe's love for the game and the life it has given him will never wane, and he will always be remembered as a true hobo and a strong voice singing the song of the sport he dearly loves.
