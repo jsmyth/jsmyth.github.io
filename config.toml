@@ -88,6 +88,8 @@ darkmode = "dark"
     name = "Home"
     url = "/"
     weight = 1
+    [menu.main.params]
+      icon = "house"
 
   [[menu.main]]
     identifier = "about"
