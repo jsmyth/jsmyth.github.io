@@ -16,8 +16,7 @@ Disc golf is a sport that requires skill, strategy, and the right equipment. The
 
 #### Drivers
 
-Drivers are designed for maximum distance and speed. They have a sharp edge and a pointed nose, which allows them to cut through the air with ease. Drivers come in a variety of weights and styles, each with different levels of stability. The more stable a driver, the less likely it is to turn over during a throw. Some common drivers include the Innova's Destroyer, Trespass by Dynamic Discs , and Discraft's Nuke. The fatser speed drivers are intended for bigger arms that generate a lot of spin. If you ar
-e newer to disc golf or simply have a slower arm speed, it's our suggestion to go for the slower speed drivers and lighter weight discs.
+Drivers are designed for maximum distance and speed. They have a sharp edge and a pointed nose, which allows them to cut through the air with ease. Drivers come in a variety of weights and styles, each with different levels of stability. The more stable a driver, the less likely it is to turn over during a throw. Some common drivers include the Innova's Destroyer, Trespass by Dynamic Discs , and Discraft's Nuke. The fatser speed drivers are intended for bigger arms that generate a lot of spin. If you are newer to disc golf or simply have a slower arm speed, it's our suggestion to go for the slower speed drivers and lighter weight discs.
 
 #### Midranges
 
