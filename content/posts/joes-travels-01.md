@@ -1,7 +1,7 @@
 ---
 title: "Joe's Travels"
 subtitle: "01 - Jamestown to Placerville"
-date: 2023-04-16T21:12:59-07:00
+date: 2023-04-24
 draft: false
 thumbnail: /img/mj-sunrise-road.png
 image: /img/mj-sunrise-road.png
