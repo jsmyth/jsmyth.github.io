@@ -8,7 +8,7 @@ image: /img/mj-sunrise-road.png
 tags: [
   "#hobo-dg",
   "#nomad",
-  "#joes-travels
+  "#joes-travels"
 ]
 ---
 ![The sunrises on the open road giving off a purple and orange sky with striped clouds](/img/mj-sunrise-road.png)
