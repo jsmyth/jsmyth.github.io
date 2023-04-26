@@ -12,8 +12,7 @@ tags: [
   "hobo-dg",
   "nomad",
   "norcal",
-  "gold-country",
-  "joes-travels"
+  "gold-country"
 ]
 ---
 ![The sunrises on the open road giving off a purple and orange sky with striped clouds](/img/mj-sunrise-road.png)
