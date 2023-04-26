@@ -6,9 +6,13 @@ date: 2023-04-25T11:46:00-07:00
 draft: true
 image: /img/hobo_logo.png
 thumbnail: /img/hobo_logo.png
+categories: [
+  "Off the Chains"
+]
 tags: [
   "#off-the-chains",
-  "#hobo-dg"
+  "#hobo-dg",
+  "#nomad"
 ]
 ---
 ![Hobo Disc Golf logo](/img/hobo_logo.png)
