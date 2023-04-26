@@ -97,16 +97,10 @@ darkmode = "dark"
     url = "/about/"
     weight = 2
 
-#  [[menu.main]]
-#    identifier = "contact"
-#    name = "Contact"
-#    url = "/contact/"
-#    weight = 3
-
 [taxonomies]
-category = "categories"
-tag = "tags"
-archive = "archives"
+    category = "categories"
+    tag = "tags"
+    archive = "archives"
 
 [privacy]
 
