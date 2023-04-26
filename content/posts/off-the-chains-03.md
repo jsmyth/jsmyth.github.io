@@ -7,7 +7,7 @@ draft: true
 image: /img/hobo_logo.png
 thumbnail: /img/hobo_logo.png
 categories: [
-  "Off the Chains"
+  "off-the-chains"
 ]
 tags: [
   "#off-the-chains",
