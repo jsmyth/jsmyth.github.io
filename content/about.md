@@ -18,8 +18,7 @@ Jim Smyth founded Hobo Disc Golf with the mission to deliver an authentic disc g
 
 We love hearing from our readers, customers, or fellow enthusiasts. If you have any questions, feedback, or just want to share your thoughts, please don't hesitate to reach out. You can contact Jim directly at jim@hobodiscgolf.com or through our social media accounts on [Twitter](https://twitter.com/HoboDG/) or [IG](https://www.instagram.com/HoboDiscGolf/)
 
-Thank you for visiting Hobo Disc Golf, and we hope you find the information, inspiration, or solutions you're seeking. May your fiarways be wide, wind be low and chains be favorable. 
+Thank you for visiting Hobo Disc Golf, and we hope you find the information, inspiration, or solutions you're seeking. May your fairways be wide, wind be low and chains be favorable. 
 
 Sincerely,
-
 Jim, Joe, and the entire Hobo Disc Golf team
