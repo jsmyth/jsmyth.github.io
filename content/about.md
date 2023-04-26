@@ -21,4 +21,5 @@ We love hearing from our readers, customers, or fellow enthusiasts. If you have 
 Thank you for visiting Hobo Disc Golf, and we hope you find the information, inspiration, or solutions you're seeking. May your fairways be wide, wind be low and chains be favorable. 
 
 Sincerely,
+
 Jim, Joe, and the entire Hobo Disc Golf team
