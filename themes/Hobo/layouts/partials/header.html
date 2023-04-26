@@ -1,0 +1,108 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css">
+<div class="sm:fixed z-50 sm:mt-[32px] {{ .Site.Params.base_color }}">
+    <div class="sm:fixed z-50 container max-w-none mr-auto ml-auto">
+        <nav class="flex items-center justify-between justify-center flex-wrap {{ .Site.Params.base_color }} px-6">
+            <div class="w-6 sm:hidden"></div> <!-- Spacer to balance the hamburger menu -->
+            <div class="border-b border-white sm:border-0 flex items-baseline flex-no-shrink {{ .Site.Params.base_color }} text-white md:py-6 pt-6 sm:pt-0 md:mr-6">
+                <a href="{{ .Site.BaseURL }}">
+                    <span class="font-semibold text-2xl tracking-tight">{{ .Site.Title }}</span>
+                </a>
+                {{ if .Site.Params.tagline }}
+		<a class="ml-[5px]"><span class="text-slate-400 tracking-tight">{{ .Site.Params.tagline }}</span></a>
+                {{ end }}
+            </div>
+
+
+	    <!-- Drawer menu -->
+            <div class="sm:flex pt-6 sm:py-6">
+		<button id="hamburger" class="flex items-center px-3 py-1 text-white hover:text-gray-300 transition-colors">
+                    <span class="icon-menu text-2xl"></span>
+                </button>
+            </div>
+
+            <div id="drawer" class="fixed top-0 right-0 h-full bg-gradient-to-br from-blue-500 to-black text-white w-64 z-50 transform translate-x-full -translate-x-0 drawer-transition p-6 shadow-lg">
+
+                <div class="navmenu">
+                    {{ range .Site.Menus.main }}
+		    <a href="{{ .URL }}" class="flex items-center py-2 px-4 text-lg mb-2 hover:mr-8 hover:bg-gray-700 hover:text-white rounded transition-colors duration-200">
+                        <i class="fas fa-{{ default "question-circle" .Params.icon }} mr-2"></i>{{ .Name }}
+                    </a>
+                    {{ end }}
+                </div>
+		<button id="closeButton" class="absolute top-4 right-4 text-xl font-bold hover:bg-gray-700 hover:bg-opacity-50 p-2 rounded-full transition-colors duration-200">&times;</button>
+
+            </div>
+        </nav>
+        <div class="sm:fixed top-[50px] sm:top-[-6px] sm:left-[52%] z-50 overflow-visible">
+            <img
+                src="/img/hobo_logo.png"
+                id="logo"
+                alt="Logo"
+                class="w-[165px] z-50 mx-auto cursor-pointer transition-all duration-300 ease-in-out"
+                onclick="flipLogo()"
+            />
+        </div>
+    </div>
+</div>
+<style>
+    .active {
+        display: block;
+    }
+    .drawer-transition {
+      transition: transform 300ms ease-in-out;
+    }
+</style>
+
+<script>
+      const logo = document.getElementById('logo');
+
+      function flipLogo() {
+        const isFlipped = logo.dataset.flipped === 'true';
+        const isHovered = logo.matches(':hover');
+        const scaleTransform = isHovered ? 'scale(1.5)' : '';
+        const translateYTransform = isHovered ? 'translateY(16px)' : '';
+
+        if (isFlipped) {
+          logo.style.transform = `${scaleTransform} ${translateYTransform}`;
+          logo.dataset.flipped = 'false';
+          document.documentElement.classList.add('dark')
+        } else {
+          logo.style.transform = `scaleX(-1) ${scaleTransform} ${translateYTransform}`;
+          logo.dataset.flipped = 'true';
+          document.documentElement.classList.remove('dark')
+        }
+      }
+
+      function handleHover() {
+        const isFlipped = logo.dataset.flipped === 'true';
+        const scaleTransform = 'scale(1.5)';
+        const flipTransform = isFlipped ? 'scaleX(-1)' : '';
+        const translateYTransform = 'translateY(16px)';
+  
+        logo.style.transform = `${flipTransform} ${scaleTransform} ${translateYTransform}`;
+      }
+
+      function handleHoverOut() {
+        const isFlipped = logo.dataset.flipped === 'true';
+        const flipTransform = isFlipped ? 'scaleX(-1)' : '';
+
+        logo.style.transform = flipTransform;
+      }
+
+      logo.addEventListener('mouseover', handleHover);
+      logo.addEventListener('mouseout', handleHoverOut);
+
+    document.addEventListener('DOMContentLoaded', () => {
+      const drawer = document.getElementById('drawer');
+      const hamburger = document.getElementById('hamburger');
+      const closeButton = document.getElementById('closeButton');
+
+      function toggleDrawer() {
+        drawer.classList.toggle('-translate-x-0');
+        drawer.classList.toggle('translate-x-full');
+      }
+
+      hamburger.addEventListener('click', toggleDrawer);
+      closeButton.addEventListener('click', toggleDrawer);
+    });
+</script>
