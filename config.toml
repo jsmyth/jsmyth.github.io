@@ -74,7 +74,8 @@ darkmode = "dark"
     display = true
 
     # Order of widgets to display
-    widgets = ["search", "archive", "category", "tags", "recent"]
+    #widgets = ["search", "archive", "category", "tags", "recent"]
+    widgets = ["search", "category", "tags"]
 
 # If you're using Yandex.Metrica, you can enable this feature.
 #[params.analytics.yandexmetrica]
@@ -100,7 +101,6 @@ darkmode = "dark"
 [taxonomies]
     category = "categories"
     tag = "tags"
-    archive = "archives"
 
 [privacy]
 
