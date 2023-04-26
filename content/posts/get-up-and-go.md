@@ -6,9 +6,9 @@ draft: false
 thumbnail: /img/dg_course_sunrise_rays.png
 image: /img/dg_course_sunrise_rays.png
 tags: [
-  "#top10",
-  "#beginners",
-  "#courses"
+  "top10",
+  "beginners",
+  "courses"
 ]
 ---
 ![Sunrising on a wooded golf course with sun rays shooting through the trees](/img/dg_course_sunrise_rays.png)

@@ -6,8 +6,8 @@ draft: false
 image: /img/mj-uinta-mountains.png
 thumbnail: /img/mj-uinta-mountains.png
 tags: [
-  "#hobo-dg",
-  "#nomad"
+  "hobo-dg",
+  "nomad"
 ]
 ---
 ![Sunsets behind a snow-capped peak as a creek runs through the foregound in the Uinta Mountains](/img/mj-uinta-mountains.png)

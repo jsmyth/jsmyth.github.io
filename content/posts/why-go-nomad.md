@@ -6,8 +6,8 @@ draft: false
 thumbnail: /img/bird_in_flight.png
 image: /img/bird_in_flight.png
 tags: [
-  "#hobo-dg",
-  "#nomad"
+  "hobo-dg",
+  "nomad"
 ]
 ---
 ![Majestic eagle soars through the woodes mountains](/img/bird_in_flight.png)

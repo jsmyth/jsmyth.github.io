@@ -6,9 +6,9 @@ draft: false
 thumbnail: /img/mj-sunrise-road.png
 image: /img/mj-sunrise-road.png
 tags: [
-  "#hobo-dg",
-  "#nomad",
-  "#joes-travels"
+  "hobo-dg",
+  "nomad",
+  "joes-travels"
 ]
 ---
 ![The sunrises on the open road giving off a purple and orange sky with striped clouds](/img/mj-sunrise-road.png)

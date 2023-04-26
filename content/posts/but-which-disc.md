@@ -6,8 +6,8 @@ draft: false
 image: /img/mj-disc.png
 thumbnail: /img/mj-disc.png
 tags: [
-  "#beginners",
-  "#in-the-bag"
+  "beginners",
+  "in-the-bag"
 ]
 ---
 ![An artisitc design on a disc sitting against the base of a tree in the woods](/img/mj-disc.png)

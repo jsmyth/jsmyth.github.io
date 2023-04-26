@@ -6,9 +6,9 @@ draft: false
 thumbnail: /img/mj-copperopolis.jpeg
 image: /img/mj-copperopolis.jpeg
 tags: [
-  "#norcal",
-  "#gold-country",
-  "#courses"
+  "norcal",
+  "gold-country",
+  "courses"
 ]
 ---
 ![Sunsetting on landscape view of a winding creek through California gold country](/img/mj-copperopolis.jpeg)
