@@ -11,6 +11,8 @@ categories: [
 tags: [
   "hobo-dg",
   "nomad",
+  "norcal",
+  "gold-country",
   "joes-travels"
 ]
 ---

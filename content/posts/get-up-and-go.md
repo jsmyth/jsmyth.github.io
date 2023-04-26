@@ -8,6 +8,7 @@ image: /img/dg_course_sunrise_rays.png
 tags: [
   "top10",
   "beginners",
+  "gold-country",
   "courses"
 ]
 ---
