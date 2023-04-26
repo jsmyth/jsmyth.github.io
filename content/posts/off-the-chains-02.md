@@ -1,6 +1,7 @@
 ---
 title: "Off the Chains: 02"
 subtitle: "The Wild and Untold Disc Golf Adventures of Chains McGraw"
+category: "Off the Chains"
 date: 2023-04-25T11:45:56-07:00
 draft: true
 image: /img/hobo_logo.png
