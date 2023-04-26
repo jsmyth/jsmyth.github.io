@@ -4,7 +4,7 @@ author = "wamo"
 languageCode = "en-us"
 DefaultContentLanguage = "en-us"
 enableInlineShortcodes = true
-theme = "Hobo"
+theme = "Blonde"
 enableRobotsTXT = true
 
 # Please enable this feature if the site is available in Japanese, Chinese or Korean.
