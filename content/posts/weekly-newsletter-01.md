@@ -12,9 +12,9 @@ draft: true
 |  | [3rd Annual NorCal Am Jam](https://www.discgolfscene.com/tournaments/NorCal_Am_Jam_2023) |  |
 
 #### Spotlight
-| Tournament |
-| ---------- |
-| ![Eagles Wings Disc Golf Logo](/img/eagles-wings-disc-golf.jpg) [2023 Zambia Disc Golf Fundraiser Series](https://www.discgolfscene.com/tournaments/2023_Zambia_Disc_Golf_Fundraiser_Series_Kelly_Park)|
+| Hobo Disc Golf |
+| -------------- |
+| {{< ref "/posts/why-go-nomad.md" "A previous post that I was quite pleased with" >}} |
 
 #### Tweet of the Week
 | ![Twitter Logo](/img/twitter-logo-small.png) |
