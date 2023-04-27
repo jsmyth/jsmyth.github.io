@@ -3,6 +3,9 @@ title: "Hobo Disc Golf Weekly: 01"
 subtitle: "Weekly Newsletter - 2023/05/08"
 date: 2023-04-27T10:35:54-07:00
 draft: true
+categories: [
+  "Newsletter"
+]
 ---
 #### Tournament Highlight
 | PROS | AMS | JUST ADDED |
