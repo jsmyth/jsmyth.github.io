@@ -14,7 +14,7 @@ draft: true
 #### Spotlight
 | Hobo Disc Golf |
 | -------------- |
-| {{< ref "/posts/why-go-nomad.md" "A previous post that I was quite pleased with" >}} |
+| {{< ref "/posts/why-go-nomad.md" "A look into Hobo Joe's mindset" >}} |
 
 #### Tweet of the Week
 | ![Twitter Logo](/img/twitter-logo-small.png) |
