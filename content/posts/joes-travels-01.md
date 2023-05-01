@@ -6,7 +6,7 @@ draft: false
 thumbnail: /img/mj-sunrise-road.png
 image: /img/mj-sunrise-road.png
 categories: [
-  "JoesTravels"
+  "Joes-Travels"
 ]
 tags: [
   "hobo-dg",
