@@ -40,8 +40,6 @@ And after the largest jump in time in regards to release date, the final machine
 
 Nights like this are the highlight and a driving force for living a hobo lifestyle. With the ability to cover more area than those tied to one location gives acess to more people and their passions and with Joe's renaissance-man-like appoach to life and genuine interest in leaerning, the treasure trove of experiences and connections is unlimited. This is why Hobo Joe and all of us here at Hobo Disc Golf values going NoMad.
 
-https://www.google.com/maps/place/South+Pines+Disc+Golf+Course/@39.8133264,-121.5957343,17z/data=!3m1!4b1!4m6!3m5!1s0x809cd51d6d6802ef:0xb75153a74924d70a!8m2!3d39.8133264!4d-121.5931594!16s%2Fg%2F11qb696vd8
-
 First thing the next morning, Joe and Jim headed out to the Chico bag tag round at South Pines in Magalia, CA. The course was a true test of their skills with winding fairways, a plathera of OB, and challenging obstacles at every turn. But despite the difficulty of the course, the two friends were able to enjoy some quality time together and appreciate the beauty of the natural surroundings while Jim was able to snag a podium spot, tying for third.
 
 Their journey through Paradise, CA was bittersweet as they witnessed both the destruction and the new growth from the aftermath of the devastating Camp Fire. As they drove through the area, Hobo Joe couldn't help but feel a sense of gratitude for life's simple pleasures, like being able to embark on a road trip with a good friend on a beautiful day and go bang some chains. 
