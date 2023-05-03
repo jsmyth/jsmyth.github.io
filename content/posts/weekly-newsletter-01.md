@@ -20,6 +20,6 @@ categories: [
 | {{< ref "/posts/why-go-nomad.md" "A look into Hobo Joe's mindset" >}} |
 
 #### Tweet of the Week
-| ![Twitter Logo](/img/twitter-logo-small.png) |
+| ![Twitter Logo](/img/twitter-logo-small.avif) |
 | -------------------------------------------- |
 | [Obi Bogey](https://twitter.com/BogeyObi) with yet [another gem](https://twitter.com/bogeyobi/status/1649410563787853824?s=46&t=O3NhSaIbHQRIzI6FWkCaEw) |

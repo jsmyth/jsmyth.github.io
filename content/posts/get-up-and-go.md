@@ -3,8 +3,8 @@ title: "Get Up and Go"
 subtitle: "10 Great Beginner Courses"
 date: 2023-04-16T09:02:29-07:00
 draft: false
-thumbnail: /img/dg_course_sunrise_rays.png
-image: /img/dg_course_sunrise_rays.png
+thumbnail: /img/dg_course_sunrise_rays.avif
+image: /img/dg_course_sunrise_rays.avif
 tags: [
   "top10",
   "beginners",
@@ -12,7 +12,7 @@ tags: [
   "courses"
 ]
 ---
-![Sunrising on a wooded golf course with sun rays shooting through the trees](/img/dg_course_sunrise_rays.png)
+![Sunrising on a wooded golf course with sun rays shooting through the trees](/img/dg_course_sunrise_rays.avif)
 
 If you're new to disc golf and looking for beginner-friendly courses to hone your skills, we've got you covered! Disc golf is a fun and exciting sport that combines the joys of golf, the thrill of frisbee and beauty and serenity of hiking. Whether you're in California or beyond, these courses offer a mix of open and wooded holes, well-maintained fairways, and moderate challenges that are perfect for beginners. So grab your discs and get ready to hit the courses!
 
@@ -20,7 +20,7 @@ If you're new to disc golf and looking for beginner-friendly courses to hone you
 
 Acorn Park in Roseville, Minnesota is a beginner-friendly disc golf course that offers a scenic and serene setting for disc golfers of all skill levels. The course features short and open fairways, making it ideal for beginners to practice their throws and learn the basics of the game. With its beautiful surroundings and relaxed atmosphere, Acorn Park is a great place for beginners to enjoy a casual round of disc golf.
 
-{{< googlemaps img=/img/map-acorn-park.png addr0="Acorn Park" addr1="Co Rd C &, Galtier St" addr2="Roseville, MN 55113" url="https://www.google.com/maps/place/Acorn+Park+Disc+Golf/@45.0199206,-93.1137749,17z/data=!3m1!4b1!4m6!3m5!1s0x52b32bf732569329:0x14463f02595c1594!8m2!3d45.0199206!4d-93.1112053!16s%2Fg%2F11gydrb89c" >}}
+{{< googlemaps img=/img/map-acorn-park.avif addr0="Acorn Park" addr1="Co Rd C &, Galtier St" addr2="Roseville, MN 55113" url="https://www.google.com/maps/place/Acorn+Park+Disc+Golf/@45.0199206,-93.1137749,17z/data=!3m1!4b1!4m6!3m5!1s0x52b32bf732569329:0x14463f02595c1594!8m2!3d45.0199206!4d-93.1112053!16s%2Fg%2F11gydrb89c" >}}
 
 ---
 
@@ -28,7 +28,7 @@ Acorn Park in Roseville, Minnesota is a beginner-friendly disc golf course that 
 
 Bayville Park in Virginia Beach, Virginia is a popular disc golf course that offers a beginner-friendly layout with a mix of open and wooded holes. The course features well-maintained fairways, gentle elevation changes, and multiple tee pads, making it accessible for players of all skill levels. Bayville is equipped with restrooms and picnic areas, making it a convenient and enjoyable place to play disc golf.
 
-{{< googlemaps img=/img/map-bayville-park.png addr0="Bayville Park" addr1="4132 First Ct Rd," addr2="Virginia Beach, VA 23455" url="https://www.google.com/maps/place/Bayville+Farms+Disc+Golf+Course/@36.9018639,-76.1212732,18z/data=!4m10!1m2!2m1!1sBayville+farms+Park+disc+golf+-+Virginia+Beach,+Virginia!3m6!1s0x89ba953f04ddd349:0x5ea664d76f48c809!8m2!3d36.9003867!4d-76.1204914!15sCjhCYXl2aWxsZSBmYXJtcyBQYXJrIGRpc2MgZ29sZiAtIFZpcmdpbmlhIEJlYWNoLCBWaXJnaW5pYVo3IjViYXl2aWxsZSBmYXJtcyBwYXJrIGRpc2MgZ29sZiB2aXJnaW5pYSBiZWFjaCB2aXJnaW5pYZIBBHBhcmuaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUXljRFpFV0VGbkVBReABAA!16s%2Fg%2F11rccxnj_f" >}}
+{{< googlemaps img=/img/map-bayville-park.avif addr0="Bayville Park" addr1="4132 First Ct Rd," addr2="Virginia Beach, VA 23455" url="https://www.google.com/maps/place/Bayville+Farms+Disc+Golf+Course/@36.9018639,-76.1212732,18z/data=!4m10!1m2!2m1!1sBayville+farms+Park+disc+golf+-+Virginia+Beach,+Virginia!3m6!1s0x89ba953f04ddd349:0x5ea664d76f48c809!8m2!3d36.9003867!4d-76.1204914!15sCjhCYXl2aWxsZSBmYXJtcyBQYXJrIGRpc2MgZ29sZiAtIFZpcmdpbmlhIEJlYWNoLCBWaXJnaW5pYVo3IjViYXl2aWxsZSBmYXJtcyBwYXJrIGRpc2MgZ29sZiB2aXJnaW5pYSBiZWFjaCB2aXJnaW5pYZIBBHBhcmuaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUXljRFpFV0VGbkVBReABAA!16s%2Fg%2F11rccxnj_f" >}}
 
 ---
 

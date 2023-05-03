@@ -3,14 +3,14 @@ title: "Meet Hobo Joe"
 subtitle: "'Hobo' Joe 'Chains' McGraw"
 date: 2023-04-22
 draft: false
-image: /img/mj-uinta-mountains.png
-thumbnail: /img/mj-uinta-mountains.png
+image: /img/mj-uinta-mountains.avif
+thumbnail: /img/mj-uinta-mountains.avif
 tags: [
   "hobo-dg",
   "nomad"
 ]
 ---
-![Sunsets behind a snow-capped peak as a creek runs through the foregound in the Uinta Mountains](/img/mj-uinta-mountains.png)
+![Sunsets behind a snow-capped peak as a creek runs through the foregound in the Uinta Mountains](/img/mj-uinta-mountains.avif)
 
 "Hobo" Joe "Chains" McGraw was born in the rugged terrain of the Uinta Mountains, near Weber City Utah, where his kin attempted to make a living off the land. However, Joe's restless spirit could not be contained in one place for long, and he soon set his sights on California. After a long and arduous journey, he found himself in the mountains of gold country, where he discovered his love for life on the road.
 

@@ -3,14 +3,14 @@ title: "Why Go Nomad?"
 subtitle: "The allure of a beautiful sport"
 date: 2023-04-16T21:12:59-07:00
 draft: false
-thumbnail: /img/bird_in_flight.png
-image: /img/bird_in_flight.png
+thumbnail: /img/bird_in_flight.avif
+image: /img/bird_in_flight.avif
 tags: [
   "hobo-dg",
   "nomad"
 ]
 ---
-![Majestic eagle soars through the woodes mountains](/img/bird_in_flight.png)
+![Majestic eagle soars through the woodes mountains](/img/bird_in_flight.avif)
 
 Disc golf, a sport that captivates with its beauty and majesty, takes you on a journey through the wilderness, up the mountains, and into the heart of nature. It's like hiking with a purpose, a purpose to conquer the fairway and reach the basket in as few throws as possible. As you stand at the tee pad, surrounded by the thick woods and rocky hillsides, the wilderness beckons, and you feel a sense of adventure coursing through your veins.
 

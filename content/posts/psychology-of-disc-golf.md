@@ -3,10 +3,10 @@ title: "Psychology of Disc Golf"
 subtitle: "Overcoming Mental Blocks on the Course"
 date: 2023-04-26T09:33:12-07:00
 draft: false
-image: /img/mj-brain-chains.png
-thumbnail: /img/mj-brain-chains.png
+image: /img/mj-brain-chains.avif
+thumbnail: /img/mj-brain-chains.avif
 ---
-![Silhouette of a brain thinking about chains with the neorns illuminated in blue](/img/mj-brain-chains.png)
+![Silhouette of a brain thinking about chains with the neorns illuminated in blue](/img/mj-brain-chains.avif)
 
 Disc golf is not just a physical sport but also a mental game. The psychology of disc golf is often overlooked, but it can play a significant role in one's play. Many players face mental blocks and challenges that can hold them back from playing their best. However, with the right mindset, players can overcome these obstacles and improve their game.
 

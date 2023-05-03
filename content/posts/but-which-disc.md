@@ -3,14 +3,14 @@ title: "But Which Disc"
 subtitle: "The Top Choices for Every Player"
 date: 2023-04-23T08:19:07-07:00
 draft: false
-image: /img/mj-disc.png
-thumbnail: /img/mj-disc.png
+image: /img/mj-disc.avif
+thumbnail: /img/mj-disc.avif
 tags: [
   "beginners",
   "in-the-bag"
 ]
 ---
-![An artisitc design on a disc sitting against the base of a tree in the woods](/img/mj-disc.png)
+![An artisitc design on a disc sitting against the base of a tree in the woods](/img/mj-disc.avif)
 
 Disc golf is a sport that requires skill, strategy, and the right equipment. The most important piece of equipment is, of course, the disc. There are three types of discs: drivers, midranges, and putters, each with its own unique characteristics and purposes. Choosing the right disc can make all the difference in your game, so it's important to understand what each disc is designed to do.
 

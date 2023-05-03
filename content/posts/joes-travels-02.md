@@ -3,8 +3,8 @@ title: "Joe's Travels: 02"
 subtitle: "South Bay to Chico"
 date: 2023-05-01T12:03:12-07:00
 draft: false
-thumbnail: /img/mj-sunrise-road.png
-image: /img/mj-sunrise-road.png
+thumbnail: /img/mj-sunrise-road.avif
+image: /img/mj-sunrise-road.avif
 categories: [
   "Joes-Travels"
 ]
@@ -14,7 +14,7 @@ tags: [
   "norcal"
 ]
 ---
-![The sunrises on the open road giving off a purple and orange sky with striped clouds](/img/mj-sunrise-road.png)
+![The sunrises on the open road giving off a purple and orange sky with striped clouds](/img/mj-sunrise-road.avif)
 
 As Hobo Joe set out on his latest road trip, he felt the familiar tingle of excitement and anticipation coursing through his veins. He started off the week in the South Bay, resting up after a busy couple weeks of disc golf, but soon found himself heading north to the quaint college town of Chico California.
 

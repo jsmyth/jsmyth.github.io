@@ -3,8 +3,8 @@ title: "Joe's Travels: 01"
 subtitle: "Jamestown to Placerville"
 date: 2023-04-24
 draft: false
-thumbnail: /img/mj-sunrise-road.png
-image: /img/mj-sunrise-road.png
+thumbnail: /img/mj-sunrise-road.avif
+image: /img/mj-sunrise-road.avif
 categories: [
   "Joes-Travels"
 ]
@@ -15,7 +15,7 @@ tags: [
   "gold-country"
 ]
 ---
-![The sunrises on the open road giving off a purple and orange sky with striped clouds](/img/mj-sunrise-road.png)
+![The sunrises on the open road giving off a purple and orange sky with striped clouds](/img/mj-sunrise-road.avif)
 
 As the sun slowly rose over Tulloch Lake in Jamestown, California, Hobo Joe "Chains" McGraw opened his eyes, greeted by the breathtaking view of the still waters reflecting the morning sky. The first rays of the day illuminated the surrounding hills, signaling the arrival of spring with its warm embrace and colorful display of wildflowers. Joe knew he was in for a treat, both on and off the disc golf course, as he continued his journey through the Golden State.
 
