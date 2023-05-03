@@ -2,9 +2,9 @@
 title: "Welcome to Hobo Disc Golf"
 date: 2023-04-20
 draft: false
-image: /img/hobo_logo.png
+image: /img/hobo_logo.avif
 ---
-![Hobo Disc Golf logo](/img/hobo_logo.png)
+![Hobo Disc Golf logo](/img/hobo_logo.avif)
 
 #### What is Hobo Disc Golf?
 

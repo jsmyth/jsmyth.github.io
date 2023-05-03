@@ -4,8 +4,8 @@ subtitle: "The Wild and Untold Disc Golf Adventures of Chains McGraw"
 category: "Off the Chains"
 date: 2023-04-25T11:45:56-07:00
 draft: true
-image: /img/hobo_logo.png
-thumbnail: /img/hobo_logo.png
+image: /img/hobo_logo.avif
+thumbnail: /img/hobo_logo.avif
 categories: [
   "off-the-chains"
 ]
@@ -15,7 +15,7 @@ tags: [
   "#nomad"
 ]
 ---
-![Hobo Disc Golf logo](/img/hobo_logo.png)
+![Hobo Disc Golf logo](/img/hobo_logo.avif)
 
 *"You've done a lot of traveling, especiall across the west. Given the company you keep and lifestyle you have had, we were wondering if you ever come across Hunter Thompson back in those days?"*
 

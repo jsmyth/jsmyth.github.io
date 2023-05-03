@@ -4,8 +4,8 @@ subtitle: "The Wild and Untold Disc Golf Adventures of Chains McGraw"
 category: "Off the Chains"
 date: 2023-04-25T11:46:00-07:00
 draft: true
-image: /img/hobo_logo.png
-thumbnail: /img/hobo_logo.png
+image: /img/hobo_logo.avif
+thumbnail: /img/hobo_logo.avif
 categories: [
   "off-the-chains"
 ]
@@ -15,7 +15,7 @@ tags: [
   "#nomad"
 ]
 ---
-![Hobo Disc Golf logo](/img/hobo_logo.png)
+![Hobo Disc Golf logo](/img/hobo_logo.avif)
 
 *"Is there any one particular adventure that sticks out to you?"*
 
