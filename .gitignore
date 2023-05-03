@@ -1,2 +1,5 @@
 /public
 /resources
+themes/Blonde/assets/css/style.css
+node_modules/
+.DS_Store
