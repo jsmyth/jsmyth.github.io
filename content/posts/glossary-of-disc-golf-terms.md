@@ -11,6 +11,7 @@ tags: [
 In disc golf, just as with any other sport or activity, the more exposure you get to it, the more confusing it can be at the beginning. One of the contributing factors to this is the specific vernacular. Here we will layout some of the often-used disc golf terms that you will undoubtedly hear and could be somewhat confusing without the proper context.
 
 #### Shot Shapes / Types
+Air Bounce:
 Anhyzer/Anhy:
 Ahny-Flip:
 Backhand Roller:
@@ -20,7 +21,9 @@ Flick:
 Flick / Forehand Roller:
 Flip-up:
 Flip-to-flat:
+Grenede:
 Hyzer:
+Nose Down / Up:
 Patent-Pending:
 Roller:
 Stall / Stall-Hyzer:
@@ -30,6 +33,7 @@ Thumber:
 Tomahawk:
 
 #### Putts
+Battle Putt:
 Flick / Pistol:
 Jump Putt:
 Push Putt:
@@ -54,6 +58,7 @@ Circle's Edge:
 Circle 2:
 Course Maintenance:
 Cross Wind:
+CTP:
 Death Putt:
 Drain(ed)( It):
 Domey:
@@ -61,20 +66,32 @@ Don't Nice Me:
 Fade / Fade Out:
 Flashing Chains:
 Foot Fault:
+Full Send:
 Guardian:
 Gummy:
 Head Wind:
+Hold:
 Hook-Up:
 In Jail:
+Juiced:
+Kick:
+Kiss:
 Mando:
+Moving Day:
+Nice Pull:
+Parked:
 Pencil-Whip(per):
 Plastic:
 Power Grip / Fan Grip:
+Ring Of Fire:
+Run It:
 Slap Some Hyzer On It:
 Spitout:
 Stable, Over/Under Stable:
 Strongside:
 Tail Wind:
 That'll Putt:
+Tombstone:
 Turn:
 Weakside:
+Work:
