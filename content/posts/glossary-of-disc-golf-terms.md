@@ -21,7 +21,7 @@ Flick / Forehand Roller:
 Flip-up:
 Flip-to-flat:
 Hyzer:
-  Slap some hyzer on it
+Patent-Pending:
 Roller:
 Stall / Stall-Hyzer:
 Spike / Spike Hyzer:
@@ -31,36 +31,47 @@ Tomahawk:
 
 #### Putts
 Flick / Pistol:
+Jump Putt:
 Push Putt:
 Scoober:
 Spin Putt:
+Stradle:
 Turbo:
 
 #### General Terms
 Bagger:
 Banging Chains:
+Black Ace / Dark Ace:
 Birdogie:
 BOB:
-Burned / over cooked:
+Burned / Over Cooked:
 Bullseye:
 Candy:
 Circle:
 Circle's Edge:
 Circle 2:
+Course Maintenance:
+Cross Wind:
 Death Putt:
 Domey:
 Don't Nice Me:
 Fade / Fade Out:
 Flashing Chains:
 Foot Fault:
+Guardian:
 Gummy:
+Head Wind:
 Hook-Up:
+In Jail:
+Mando:
 Pencil-Whip(per):
 Plastic:
 Power Grip / Fan Grip:
+Slap Some Hyzer On It:
 Spitout:
 Stable, Over/Under Stable:
 Strongside:
-That'll putt:
+Tail Wind:
+That'll Putt:
 Turn:
 Weakside:
