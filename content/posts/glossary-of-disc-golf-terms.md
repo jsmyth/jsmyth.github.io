@@ -47,12 +47,15 @@ BOB:
 Burned / Over Cooked:
 Bullseye:
 Candy:
+Chains:
+Chain Out:
 Circle:
 Circle's Edge:
 Circle 2:
 Course Maintenance:
 Cross Wind:
 Death Putt:
+Drain(ed)( It):
 Domey:
 Don't Nice Me:
 Fade / Fade Out:
