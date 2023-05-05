@@ -1,5 +1,5 @@
 ---
-title: "Innagural Hobo DG Bag Tag Event 2023"
+title: "Inagural Hobo DG Bag Tag Event 2023"
 subtitle: "AM Rush in Grass Valley, CA"
 date: 2023-05-05
 draft: false
@@ -16,7 +16,7 @@ tags: [
 ![Hobo Disc Golf logo](/img/hobo_logo.avif)
 
 #### Hobo Disc Golf Bag Tags!
-Join us June 17th and 18th in Grass Valley at the Lost Lake Disc Golf Course for the [AM Rush Tournament](https://www.discgolfscene.com/tournaments/The_Am_Rush_2023) which will also include the innagural **Hobo Disc Golf Bag Tag** kick-off!
+Join us June 17th and 18th in Grass Valley at the Lost Lake Disc Golf Course for the [AM Rush Tournament](https://www.discgolfscene.com/tournaments/The_Am_Rush_2023) which will also include the inagural **Hobo Disc Golf Bag Tag** kick-off!
 
 At least once a year, Hobo Disc Golf will sponsor a local tournament to initially seed and handout tags in-person as a community. However, if you are not able to make the tournament(s) for some reason (but what could be more important, really?) you can always catch Hobo Joe on the course or reach out to jim@hobodiscgolf.com to get yourself a tag and start playing other Hobo Disc Golfers.
 
