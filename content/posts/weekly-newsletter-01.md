@@ -7,6 +7,15 @@ categories: [
   "Newsletter"
 ]
 ---
+#### Hobo DG Bag Tag Top 5
+| TAG | HOBO |
+| --- | ---- |
+| 1 | *coming soon* |
+| 2 | *coming soon* |
+| 3 | *coming soon* |
+| 4 | *coming soon* |
+| 5 | *coming soon* |
+
 #### Tournament Highlight
 | COMING UP | JUST ADDED |
 | --------- | ---------- |
@@ -19,7 +28,7 @@ categories: [
 #### Spotlight
 | Hobo Disc Golf Bag Tag Kick-Off! |
 | -------------------------------- |
-| [AM Rush](https://www.discgolfscene.com/tournaments/The_Am_Rush_2023) | 
+| [AM Rush](https://www.discgolfscene.com/tournaments/The_Am_Rush_2023) |
 
 #### Tweet of the Week
 | ![Twitter Logo](/img/twitter-logo-small.avif) |
