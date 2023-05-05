@@ -10,7 +10,9 @@ categories: [
 tags: [
   "special-event",
   "sponsorship",
-  "tournaments"
+  "tournaments",
+  "nomad",
+  "hobo-dg"
 ]
 ---
 ![Hobo Disc Golf logo](/img/hobo_logo.avif)
