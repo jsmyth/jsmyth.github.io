@@ -7,13 +7,12 @@ image: /img/hobo_logo.avif
 ![Hobo Disc Golf logo](/img/hobo_logo.avif)
 
 #### What are Hobo Disc Golf Bag Tags?
-
-At least once a year, Hobo Disc Golf will sponsor a local tournament to initially seed and handout tags in-person as a community. You can also purchase a tag for $20 if you are not able to make it to the tournament(s) by contacting jim@hobodiscgolf.com. After that, you can challenge anyone, anywhere, that also has a Hobo Disc Golf Tag. You can contact jim@hobodiscgolf.com to update your tag number in the table below until our app is ready.
+At least once a year, Hobo Disc Golf will sponsor a local tournament to initially seed and handout tags in-person as a community. However, if you are not able to make it to the tournament(s) for some reason (but what could be more important, really?) you can always catch Hobo Joe on the course or reach out to jim@hobodiscgolf.com to get yourself a tag and start playing other Hobo Disc Golfers. After that, you can challenge any Hobo DG player, anywhere, and after your rounds you can contact jim@hobodiscgolf.com to update your tag number in the table below, until our app is ready. So get your tag and Go NoMad!
 
 #### Tag Numbers
 | Tag | Player |
 | --- | ------ |
-| 1 | []() |
+| 1 | [Hobo Joe](https://www.pdga.com/player/117044) |
 | 2 | []() |
 | 3 | []() |
 | 4 | []() |
