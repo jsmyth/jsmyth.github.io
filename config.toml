@@ -93,10 +93,16 @@ darkmode = "dark"
       icon = "house"
 
   [[menu.main]]
+    identifier = "bag-tags"
+    name = "Bag Tags"
+    url = "/bag-tags/"
+    weight = 2
+
+  [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 2
+    weight = 3
 
 [taxonomies]
     category = "categories"
