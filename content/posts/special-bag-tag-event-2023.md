@@ -3,7 +3,7 @@ title: "Inagural Hobo DG Bag Tag Event 2023"
 subtitle: "AM Rush in Grass Valley, CA"
 date: 2023-05-05
 draft: false
-image: /img/hobo_logo.avif
+image: /img/color-bag-tag-1.jpg
 categories: [
   "bag-tags"
 ]
@@ -15,7 +15,7 @@ tags: [
   "hobo-dg"
 ]
 ---
-![Hobo Disc Golf logo](/img/hobo_logo.avif)
+![Hobo Disc Golf Bag Tag in Color](/img/color-bag-tag-front-back.jpg)
 
 #### Hobo Disc Golf Bag Tags!
 Join us June 17th and 18th in Grass Valley at the Lost Lake Disc Golf Course for the [AM Rush Tournament](https://www.discgolfscene.com/tournaments/The_Am_Rush_2023) which will also include the inagural **Hobo Disc Golf Bag Tag** kick-off!
