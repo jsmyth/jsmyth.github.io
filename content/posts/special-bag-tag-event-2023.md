@@ -12,7 +12,8 @@ tags: [
   "sponsorship",
   "tournaments",
   "nomad",
-  "hobo-dg"
+  "hobo-dg",
+  "norcal"
 ]
 ---
 ![Hobo Disc Golf Bag Tag in Color](/img/color-bag-tag-front-back.jpg)
