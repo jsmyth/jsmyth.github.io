@@ -30,5 +30,6 @@ Register for the [AM Rush](https://www.discgolfscene.com/tournaments/The_Am_Rush
 | [The Levi Memorial](https://www.discgolfscene.com/tournaments/The_Levi_Memorial_2023) |N|
 | [AM Rush](https://www.discgolfscene.com/tournaments/The_Am_Rush_2023) |Y|
 
-### Meme of the Week
-![Two cats, one making a face behind the other](/img/cat-dg-meme.jpeg)
+### A look back at the Week
+This past week saw the ever-entertaining May the 4th come and go. Here was our contribution:
+![Boba Fett stepping out in the redwoods with a forehand flick approach playing disc golf](/img/hobo-boba.png)
