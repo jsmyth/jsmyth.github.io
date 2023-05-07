@@ -1,13 +1,13 @@
 ---
-title: "Hobo Disc Golf Weekly: 01"
-subtitle: "Weekly Newsletter - 2023/05/08"
-date: 2023-04-27T10:35:54-07:00
-draft: true
-image: /img/color-bag-tag-1.jpg
+title: "Hobo DG Weekly: 01"
+date: 2023-05-07
+draft: false
+image: /img/hobo-logo-weekly.png
 categories: [
   "Newsletter"
 ]
 ---
+![Hobo Joe throwing a backhand strecthing the rule of thirds with the title Hobo Disc Golf Weekly Newsletter off to the right in the clouds](/img/weekly-newsletter-banner.png)
 ### Hobo DG Bag Tag Top 5
 | Tag | Hobo |
 | --- | ---- |
@@ -32,4 +32,6 @@ Register for the [AM Rush](https://www.discgolfscene.com/tournaments/The_Am_Rush
 
 ### A look back at the Week
 This past week saw the ever-entertaining May the 4th come and go. Here was our contribution:
+
+"Feel the 4th. Let it flow through you. #HoboBoba"
 ![Boba Fett stepping out in the redwoods with a forehand flick approach playing disc golf](/img/hobo-boba.png)
