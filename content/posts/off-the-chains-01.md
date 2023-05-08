@@ -1,7 +1,6 @@
 ---
 title: "Off the Chains: 01"
 subtitle: "The Wild and Untold Disc Golf Adventures of Chains McGraw"
-category: "off-the-chains"
 date: 2023-05-08
 draft: false
 image: /img/mj-chains-chevy-in-the-rockies.jpg
