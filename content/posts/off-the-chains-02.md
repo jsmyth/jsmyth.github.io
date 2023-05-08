@@ -3,13 +3,13 @@ title: "Off the Chains: 02"
 subtitle: "The Wild and Untold Disc Golf Adventures of Chains McGraw"
 date: 2023-04-25T11:45:56-07:00
 draft: true
-image: /img/hobo_logo.avif
-thumbnail: /img/hobo_logo.avif
+image: /img/mj-steadman-dg.png
+thumbnail: /img/mj-steadman-dg.png
 categories: [
   "off-the-chains"
 ]
 ---
-![Hobo Disc Golf logo](/img/hobo_logo.avif)
+![Drawing in the style of Ralph Steadman depicting an older man in the woods playing disc golf](/img/mj-steadman-dg.png)
 
 *"You've done a lot of traveling, especiall across the west. Given the company you keep and lifestyle you have had, we were wondering if you ever come across Hunter Thompson back in those days?"*
 
