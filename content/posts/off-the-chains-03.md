@@ -3,13 +3,13 @@ title: "Off the Chains: 03"
 subtitle: "The Wild and Untold Disc Golf Adventures of Chains McGraw"
 date: 2023-04-25T11:46:00-07:00
 draft: true
-image: /img/hobo_logo.avif
-thumbnail: /img/hobo_logo.avif
+image: /img/mj-glow-redwoods.png
+thumbnail: /img/mj-glow-redwoods.png
 categories: [
   "off-the-chains"
 ]
 ---
-![Hobo Disc Golf logo](/img/hobo_logo.avif)
+![A person throwing a glowing disc in the redwoods at night](/img/mj-glow-redwoods.png)
 
 *"Is there any one particular adventure that sticks out to you?"*
 
