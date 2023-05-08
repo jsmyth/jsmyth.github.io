@@ -9,11 +9,6 @@ thumbnail: /img/hobo_logo.avif
 categories: [
   "off-the-chains"
 ]
-tags: [
-  "#off-the-chains",
-  "#hobo-dg",
-  "#nomad"
-]
 ---
 ![Hobo Disc Golf logo](/img/hobo_logo.avif)
 
