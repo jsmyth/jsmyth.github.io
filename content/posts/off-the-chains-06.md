@@ -11,7 +11,7 @@ categories: [
 ---
 ![Cartoon depicting a bafoonish disc golfer holding a scorecard and a pencil up his nose](/img/mj-pencil-whipper-cartoon.png)
 
-*We recently spoke out on the course about "pencil whippers". Want to share your thoughts with the readers?*
+*"We recently spoke out on the course about "pencil whippers". Want to share your thoughts with the readers?"*
 
 Chains McGraw: "Pencil whippers? Ha! Those are some of the most cowardly, pathetic creatures to ever crawl the golf course. They're nothing but liars and cheats who would sell their own mothers for a lower handicap.
 

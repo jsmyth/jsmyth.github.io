@@ -11,10 +11,9 @@ categories: [
 ---
 ![Drawing in the style of Ralph Steadman depicting an older man in the woods playing disc golf](/img/mj-steadman-dg.png)
 
-*"You've done a lot of traveling, especiall across the west. Given the company you keep and lifestyle you have had, we were wondering if you ever come across Hunter Thompson back in those days?"*
+*"You've done a lot of traveling, especiall across the west. Given the company you keep and lifestyle you have had, we were wondering if you ever came across Hunter Thompson back in those days?"*
 
-Chains McGraw:
-"Ah, yes, Dr. Gonzo, what a character he was. Let me take you back to the '80s, a time of wild debauchery and even wilder disc golfing adventures. Hunter and I found ourselves on a road trip through the Pacific Northwest, chasing the elusive ace and living life to the fullest.
+Chains McGraw: "Ah, yes, Dr. Gonzo, what a character he was. Let me take you back to the '80s, a time of wild debauchery and even wilder disc golfing adventures. Hunter and I found ourselves on a road trip through the Pacific Northwest, chasing the elusive ace and living life to the fullest.
 
 One particularly memorable moment occurred when we stumbled upon a hidden gem of a course in the heart of the Oregon wilderness. It was a treacherous hike through dense forests and steep hills, but we were determined to play this course that was rumored to be a disc golfer's paradise.
 
