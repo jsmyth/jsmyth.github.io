@@ -3,12 +3,14 @@ title: "Off the Chains: 04"
 subtitle: "The Wild and Untold Disc Golf Adventures of Chains McGraw"
 date: 2023-05-08T11:47:16-07:00
 draft: true
-image: /img/hobo_logo.avif
-thumbnail: /img/hobo_logo.avif
+image: /img/mj-brooktrails.png
+thumbnail: /img/mj-brooktrails.png
 categories: [
   "off-the-chains"
 ]
 ---
+![Sun rising with slight fog presenting sun rays through the Redwoods in the green fairway of a disc golf course](/img/mj-brooktrails.png)
+
 *What would you say your favorite course in Norther California is?*
 
 Chains McGraw: "Now that's a good question. So many to choose from throughout the years. That's pretty tough, but put to it, I'd have to go with Brooktrails in Willits. It's hard to put into words just how beautiful that place is. It's a disc golf course nestled deep in the heart of Northern California, surrounded by towering redwoods and verdant greenery as far as the eye can see. Every time I've been there, I've been struck by the sheer majesty of the place. It's like stepping into another world, one where nature reigns supreme and everything else falls away.
