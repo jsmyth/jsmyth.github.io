@@ -1,15 +1,16 @@
 ---
-title: "Hyzers,Scoobers,Drainin' Turbos and Dirty Spit Outs"
-subtitle: "A Glossary of Disc Golf Terms"
+title: "'I burned my anhy and cut rolled myself in jail'"
+subtitle: "'What?' A Glossary of Disc Golf Terms"
 date: 2023-05-02T07:21:04-07:00
 draft: true
 tags: [
   "beginners"
 ]
 ---
-## Disc Golf Speak
+#
 In disc golf, just as with any other sport or activity, the more exposure you get to it, the more confusing it can be at the beginning. One of the contributing factors to this is the specific vernacular. Here we will layout some of the often-used disc golf terms that you will undoubtedly hear and could be somewhat confusing without the proper context.
 
+## Disc Golf Speak
 #### Shot Shapes / Types
 - Air Bounce:
 - Anhyzer/Anhy:
@@ -26,6 +27,7 @@ In disc golf, just as with any other sport or activity, the more exposure you ge
 - Nose Down / Up:
 - Patent-Pending:
 - Roller:
+- Stable, Over/Under Stable:
 - Stall / Stall-Hyzer:
 - Spike / Spike Hyzer:
 - Stall-Anhy:
@@ -44,10 +46,11 @@ In disc golf, just as with any other sport or activity, the more exposure you ge
 
 #### General Terms
 - Bagger:
-- Banging Chains:
-- Black Ace / Dark Ace:
-- Birdogie:
-- BOB:
+- Banging Chains: Making putts.
+- Black Ace / Dark Ace: Making your tee shot into a basket that your hole is not playing to.
+- Birdogie: The saddest story in disc golf. When you are putting for birdie and miss, then due to whatever circumstances, you miss the comebacker (see below) as well. Going from a potenial birdie to an actual bogie.
+- BOB: An accronym for "Back of the Box", or last in the tee-off order.
+- Box: the teepad, generally used when referring to somebody "having the box" meaning they are first in the tee-off order.
 - Burned / Over Cooked:
 - Bullseye:
 - Candy:
@@ -56,9 +59,10 @@ In disc golf, just as with any other sport or activity, the more exposure you ge
 - Circle:
 - Circle's Edge:
 - Circle 2:
-- Course Maintenance:
+- Comebacker: A second putt after leaving yourself long on the initial putt.
+- Course Maintenance: When a shot, typically a drive, knocks off leaves or branches from guardian (see below) trees, meaning the player is making the line bigger or cleaner for future play.
 - Cross Wind:
-- CTP:
+- CTP: Accronym meaning "Closest to the Pin" or closest to the basket.
 - Death Putt:
 - Drain(ed)( It):
 - Domey:
@@ -88,7 +92,6 @@ In disc golf, just as with any other sport or activity, the more exposure you ge
 - Run It:
 - Slap Some Hyzer On It:
 - Spitout:
-- Stable, Over/Under Stable:
 - Strongside:
 - Tail Wind:
 - That'll Putt:
