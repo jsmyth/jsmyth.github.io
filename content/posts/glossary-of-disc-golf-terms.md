@@ -73,6 +73,7 @@ In disc golf, just as with any other sport or activity, the more exposure you ge
 - **Full Send**: Giving maximum effort or power when throwing a disc.
 - **Guardian**: An obstacle that protects the basket and makes it more difficult to make a successful putt.
 - **Gummy**: A term used to describe a type of plastic used in disc golf discs that is soft and flexible.
+- **Hard Pan**: A term describing the ground when the dirt is incredibly hard with not much, if any, grass or weeds to slow your disc, making for very fast and skippy ground play.
 - **Head Wind**: Wind blowing against the direction of the throw, making it more difficult to control the flight of the disc.
 - **Hold**: The ability of a disc to maintain a straight flight path without turning or fading.
 - **Hook-Up**: The point in a disc's flight where it starts to fade to the left (for a right-handed thrower).
@@ -95,6 +96,7 @@ In disc golf, just as with any other sport or activity, the more exposure you ge
 - **Strongside**: The side of the basket where the chains are attached, typically the side that players aim for when putting.
 - **Tail Wind**: Wind blowing in the direction of the throw, providing extra lift and making it easier to throw the disc further.
 - **That'll Putt**: A term used to describe a successful putt or a putt that is very close to
+- **Throwing Three**: Can be throwing 4, 5, etc. Referring to what stroke you are on during a hole, usually used when somebody has gone OB. So if you're drive is OB, with the penalty stroke, your next shot you would be "throwing three" even though it is the second time you have thrown.
 - **Tombstone**: The way a disc comes to rest, with the bottom of the disc sticking up out of the ground.
 - **Turn**: The natural flight of a disc in the direction opposite its spin. A right-handed backhand throw will turn left, and a left-handed backhand throw will turn right.
 - **Weakside**: The side of the basket that is farthest away from a player's throwing arm. For example, a right-handed player's weakside is the left side of the basket.
