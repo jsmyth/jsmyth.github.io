@@ -64,7 +64,7 @@ Reichmuth Park in Sacramento, California is a smaller course that offers a mix o
 
 #### Stadium Course - Salinas, California
 
-Stadium Course in Salinas, California is a beginner-friendly disc golf course that offers a unique and challenging layout on a former baseball stadium. The course features a mix of open and wooded holes, with moderate distances and well-maintained fairways. The unique setting of the stadium adds an element of excitement and novelty to the disc golf experience, making it a fun and memorable destination for beginners to play. Shoutout to the Nomads!
+Stadium Course in Salinas, California is a beginner-friendly disc golf course that offers a unique and challenging layout in a natural terrain that resembles a stadium. The course features a mix of open and wooded holes, with moderate distances and well-maintained fairways. The unique setting of the stadium adds an element of excitement and novelty to the disc golf experience, making it a fun and memorable destination for beginners to play. Shoutout to the Nomads!
 
 ---
 
