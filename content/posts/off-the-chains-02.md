@@ -1,7 +1,7 @@
 ---
 title: "Off the Chains: 02"
 subtitle: "The Wild and Untold Disc Golf Adventures of Chains McGraw"
-date: 2023-04-25T11:45:56-07:00
+date: 2023-05-15
 draft: false
 image: /img/mj-steadman-dg.png
 thumbnail: /img/mj-steadman-dg.png
