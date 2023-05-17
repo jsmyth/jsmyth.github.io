@@ -33,7 +33,7 @@ archive_dropdown = "false"
 # Number of tags to be displayed.
 tagsLimit = 20
 
-tagline = ""
+tagline = "Going NoMad"
 
 # Dark mode by default : dark
 # Light mode by default : light
