@@ -3,6 +3,10 @@ title: "Disc Golf Is Life"
 date: 2023-05-17T09:05:55-07:00
 subtitle: "The romantic side of disc golf"
 draft: false
+tags: [
+  "hobo-dg",
+  "nomad"
+]
 image: /img/lake-tulloch-basket.jpg
 ---
 ![Camp site with a disc golf basket near the fire pit overlooking Lake Tulloch](/img/lake-tulloch-basket.jpg)
