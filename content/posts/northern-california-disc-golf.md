@@ -1,8 +1,19 @@
 ---
 title: "Northern California Disc Golf"
-date: 2023-05-08T20:51:32-07:00
-draft: true
+date: 2023-05-19
+draft: false
+image: /img/three-links-teepad.png
+thumbnail: /img/three-links-teepad.png
+tags: [
+  "hobo-dg",
+  "gold-country",
+  "nomad",
+  "norcal",
+  "courses"
+]
 ---
+![A log-framed teepad looking down a wooded fairway at Three Links Camp in Mi-wuk](/img/three-links-teepad.png)
+
 As Hunter S. Thompson once said, "Good people drink good beer." And in Northern California, good people also play good disc golf.
 
 The disc golf courses of Northern California are an absolute treasure that few people outside of the sport truly appreciate. From the towering redwoods of Brooktrails to the stunning vistas on Zephyr Cove of Lake Tahoe and the Sierra Nevada mountains (yes, techincally it's in Nevada, but ya know), these courses offer an unparalleled experience of technical golf in the most stunning of settings.
