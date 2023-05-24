@@ -3,13 +3,13 @@ title: "Off the Chains: 01"
 subtitle: "The Wild and Untold Disc Golf Adventures of Chains McGraw"
 date: 2023-05-08
 draft: false
-image: /img/mj-chains-chevy-in-the-rockies.jpg
-thumbnail: /img/mj-chains-chevy-in-the-rockies.jpg
+image: /img/mj-chains-chevy-in-the-rockies.avif
+thumbnail: /img/mj-chains-chevy-in-the-rockies.avif
 categories: [
   "off-the-chains"
 ]
 ---
-![70's era Chevy 4x4 on a dirt road driving in the Rockies](/img/mj-chains-chevy-in-the-rockies.jpg)
+![70's era Chevy 4x4 on a dirt road driving in the Rockies](/img/mj-chains-chevy-in-the-rockies.avif)
 
 *"Can you tell us about one of your earliest disc golf road trips?"*
 
