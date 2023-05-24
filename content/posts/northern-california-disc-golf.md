@@ -1,5 +1,6 @@
 ---
 title: "Northern California Disc Golf"
+subtitle: "Mountain Golf"
 date: 2023-05-19
 draft: false
 image: /img/three-links-teepad.avif
