@@ -2,8 +2,8 @@
 title: "Northern California Disc Golf"
 date: 2023-05-19
 draft: false
-image: /img/three-links-teepad.png
-thumbnail: /img/three-links-teepad.png
+image: /img/three-links-teepad.avif
+thumbnail: /img/three-links-teepad.avif
 tags: [
   "hobo-dg",
   "gold-country",
@@ -12,7 +12,7 @@ tags: [
   "courses"
 ]
 ---
-![A log-framed teepad looking down a wooded fairway at Three Links Camp in Mi-wuk](/img/three-links-teepad.png)
+![A log-framed teepad looking down a wooded fairway at Three Links Camp in Mi-wuk](/img/three-links-teepad.avif)
 
 As Hunter S. Thompson once said, "Good people drink good beer." And in Northern California, good people also play good disc golf.
 

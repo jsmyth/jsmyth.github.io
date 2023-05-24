@@ -7,9 +7,9 @@ tags: [
   "hobo-dg",
   "nomad"
 ]
-image: /img/lake-tulloch-basket.jpg
+image: /img/lake-tulloch-basket.avif
 ---
-![Camp site with a disc golf basket near the fire pit overlooking Lake Tulloch](/img/lake-tulloch-basket.jpg)
+![Camp site with a disc golf basket near the fire pit overlooking Lake Tulloch](/img/lake-tulloch-basket.avif)
 
 Disc golf, my wild and untamed companion, is a symphony of flight that leaves the soul soaring through the air. It's a dance between man and nature, where plastic discs become vessels of liberation, and fairways turn into portals to untamed adventures. The beauty of disc golf lies not only in the graceful arcs and spins of the flying disc but in the essence of the hobo lifestyle it embodies.
 
