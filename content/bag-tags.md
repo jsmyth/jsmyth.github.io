@@ -2,7 +2,7 @@
 title: "Hobo Disc Golf Bag Tags"
 date: 2023-05-06
 draft: false
-image: /img/color-bag-tag-1.jpg
+image: /img/color-bag-tag-1.avif
 categories: [
   "bag-tags"
 ]
@@ -12,7 +12,7 @@ tags: [
   "tournaments"
 ]
 ---
-![Hobo Disc Golf logo](/img/color-bag-tag-front-back.jpg)
+![Hobo Disc Golf logo](/img/color-bag-tag-front-back.avif)
 
 #### What are Hobo Disc Golf Bag Tags?
 At least once a year, Hobo Disc Golf will sponsor a local tournament to initially seed and handout tags in-person as a community. This year we are sponsoring the [AM Rush Tournament](https://www.discgolfscene.com/tournaments/The_Am_Rush_2023) on June 17th and 18th 2023. Be sure to register today! However, if you are not able to make it to the tournament(s) for some reason (but what could be more important, really?) you can always catch Hobo Joe on the course or reach out to jim@hobodiscgolf.com to get yourself a tag and start playing other Hobo Disc Golfers. After that, you can challenge any Hobo DG player, anywhere, and after your rounds you can contact jim@hobodiscgolf.com to update your tag number in the table below, until our app is ready. So get your tag and Go NoMad!
