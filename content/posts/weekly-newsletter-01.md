@@ -19,7 +19,7 @@ categories: [
 
 ### Hobo Disc Golf Bag Tag Kick-Off!
 Register for the [AM Rush](https://www.discgolfscene.com/tournaments/The_Am_Rush_2023) and kick-off the inagural Hobo DG Bag Tag event!
-![Color Hobo DG Logo Bag Tag Fronnt and Back](/img/color-bag-tag-front-back.jpg)
+![Color Hobo DG Logo Bag Tag Fronnt and Back](/img/color-bag-tag-front-back.avif)
 
 ### Still Room Left
 | TOURNEY | HOBO DG EVENT? |
