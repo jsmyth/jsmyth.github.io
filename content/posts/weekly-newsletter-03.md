@@ -12,7 +12,7 @@ categories: [
 ### BREAKING NEWS!!
 ### Hobo Disc Golf has developed a new disc golf board game!
 ![Close-up of a stack of green d6 dice](/img/cabin-dice.avif)
-Exciting news, we have developed a card and dice board game that is being productized now AND we have a second game that is currently in developement! We are so thrilled to be able to share these with you once they are ready to go, but in the meantime, keep an eye out on Twitter and IG for any updates. And if you run into Hobo Joe on the road or on the course, be sure to ask to play a game, he's always looking for takers.
+Exciting news, we have developed a card and dice board game that is being productized now AND we have a second game that is currently in developement! We are so thrilled to be able to share these with you once they are ready to go, but in the meantime, keep an eye out on [Twitter](https://twitter.com/HoboDG/) or [IG](https://www.instagram.com/HoboDiscGolf/) for any updates. And if you run into Hobo Joe on the road or on the course, be sure to ask to play a game, he's always looking for takers.
 
 ### Hobo DG Bag Tag Top 5
 | Tag | Hobo |
