@@ -33,7 +33,7 @@ Register for the [AM Rush](https://www.discgolfscene.com/tournaments/The_Am_Rush
 | [2023 NADGT Exclusive @ South Pines](https://www.discgolfscene.com/tournaments/2023_NADGT_Exclusive_at_South_Pines) |N|
 | [Steady Ed's Birthday Bash](https://www.discgolfscene.com/tournaments/Steady_Eds_Birthday_Bash_2023) |N|
 | [AM Rush](https://www.discgolfscene.com/tournaments/The_Am_Rush_2023) |Y|
-| [Salad Bowl Open 23](https://www.discgolfscene.com/tournaments/Salad_Bowl_Open_23_2023) |?|
+| [Salad Bowl Open 23](https://www.discgolfscene.com/tournaments/Salad_Bowl_Open_23_2023) |Y|
 
 ### A look back at the Week
 The last couple of weeks have been spent hunkered down developing board games, so not much travel or golf recently. Joe did play terribly at the 3rd annual NorCal AM Jam and then again the next week at the Zambia DG Fundraiser, but was not discouraged and turned in a pretty good showing the next day at a doubles event with partner Ed. It was a Jr Worlds fundraiser for Cola, and we here at Hobo Disc Golf wish him and all the local Jrs good luck this year as they compete at the highest level. Time to get after it!

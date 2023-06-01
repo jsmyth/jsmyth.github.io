@@ -5,7 +5,7 @@ date: 2023-05-05
 draft: false
 image: /img/color-bag-tag-1.avif
 categories: [
-  "bag-tags"
+  "Joes-Travels"
 ]
 tags: [
   "special-event",
