@@ -8,6 +8,10 @@ thumbnail: /img/mj-steadman-dg.avif
 categories: [
   "off-the-chains"
 ]
+tags: [
+  "hobo-dg",
+  "nomad"
+]
 ---
 ![Drawing in the style of Ralph Steadman depicting an older man in the woods playing disc golf](/img/mj-steadman-dg.avif)
 

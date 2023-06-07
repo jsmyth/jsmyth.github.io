@@ -8,6 +8,10 @@ thumbnail: /img/mj-chains-chevy-in-the-rockies.avif
 categories: [
   "off-the-chains"
 ]
+tags: [
+  "hobo-dg",
+  "nomad"
+]
 ---
 ![70's era Chevy 4x4 on a dirt road driving in the Rockies](/img/mj-chains-chevy-in-the-rockies.avif)
 

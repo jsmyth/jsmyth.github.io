@@ -8,6 +8,10 @@ thumbnail: /img/mj-glow-redwoods.avif
 categories: [
   "off-the-chains"
 ]
+tags: [
+  "hobo-dg",
+  "nomad"
+]
 ---
 ![A person throwing a glowing disc in the redwoods at night](/img/mj-glow-redwoods.avif)
 
