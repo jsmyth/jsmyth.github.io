@@ -1,31 +1,39 @@
 ---
 title: "Off the Chains: 03"
 subtitle: "The Wild and Untold Disc Golf Adventures of Chains McGraw"
-date: 2023-04-25T11:46:00-07:00
-draft: true
-image: /img/mj-glow-redwoods.png
-thumbnail: /img/mj-glow-redwoods.png
+date: 2023-06-07
+draft: false
+image: /img/mj-glow-redwoods.avif
+thumbnail: /img/mj-glow-redwoods.avif
 categories: [
   "off-the-chains"
 ]
 ---
-![A person throwing a glowing disc in the redwoods at night](/img/mj-glow-redwoods.png)
+![A person throwing a glowing disc in the redwoods at night](/img/mj-glow-redwoods.avif)
 
 *"Is there any one particular adventure that sticks out to you?"*
 
 Chains McGraw:
-"I've been on many wild disc golf adventures in my time, that's for sure. Hmmmmmmmm... Let me tell you about the time I played a round with a group of eccentric hippies deep in the heart of the California redwoods.
+"I've been on many wild disc golf adventures in my time, that's for sure. Hmmmmmmmm... Let me tell you about the time I played a round with a group of eccentric hippies deep in the heart of the California redwoods...
 
-It was the summer of '78, and I was making my way up the coast with my trusty disc golf bag in tow. I had heard rumors of a group of hippies living off the grid in a remote corner of the redwoods, and I was determined to find them and challenge them to a round of disc golf.
+Picture it, my friend. The summer of '78, a time when rebellion ran through the veins and the call of the open road echoed in our hearts. On a journey up the California coast, I embarked on a pilgrimage along the rugged coastline. Seeking adventure at every turn, the rumors of a tribe of eccentric hippies dwelling amidst the ancient redwoods had reached my ears, drawing me in like a disc to a basket.
 
-After a few days of hiking through the thick, wet forest, I finally stumbled upon their encampment. The hippies welcomed me with open arms, and we spent the afternoon smoking weed and drinking homemade wine. When I mentioned that I was a disc golfer, their eyes lit up, and they eagerly agreed to play a round with me.
+Through tangled foliage and the chorus of wildlife voices, I forged my path, my disc golf bag a constant companion. The forest beckoned with its secrets, pushing me through the apex of every turn. And there, hidden from the prying eyes of the world, I stumbled upon their sanctuary, a haven for souls seeking solace and connection amidst nature's grandeur.
 
-We hiked up to their makeshift disc golf course, which was set up in a clearing surrounded by towering redwoods. The holes were marked by piles of stones, and the baskets were made from old bicycle rims. It was unlike any course I had ever played before, but I was up for the challenge.
+As the sun dappled through the emerald canopy, I was embraced by the warmth of their counterculture commune. Time ceased to exist as we indulged in the sacraments of herbal liberation and savoring the nectar of homemade wines that danced on our tongues. The air pulsated with the rhythm of untamed spirits.
 
-The hippies insisted that we play a game they called "Cosmic Disc Golf," which involved playing at night using glow-in-the-dark discs. I was skeptical at first, but after a few hits off the communal bong, I was all in.
+And in that moment, as the sun began its descent into the horizon, I revealed my love for the ancient game of disc golf. Their eyes sparkled with intrigue and that all-knowing smile of shared addiction to the sounds of plastic crashing into chains. And without hesitation, they pledged their participation in a round of golf I would not soon forget.
 
-The round was unlike any I had ever played before. The glow of the discs illuminating the dark forest created an otherworldly atmosphere. The hippies were skilled players, but their laid-back attitude and love of nature made for a relaxed and fun game.
+The hippies insisted that we play a game they called "Cosmic Disc Golf," which involved playing at night using glow-in-the-dark discs. I was skeptical at first, not being able to imagine what I would eventually come to see right there on tee pad 1. A disc illuminating our spirits as if a second moon had risen in the sky, begging us to follow it through the fairway veins of the course.
 
-After the round, we sat around a campfire and shared stories late into the night. As the embers burned low, I realized that this was what disc golf was really all about - connecting with people from all walks of life over a shared love of the game.
+Together, we ventured into the heart of the redwoods, where their makeshift course awaited us. Marked by piles of stones and baskets crafted from discarded bicycle rims, it was a sight to behold. A fusion of nature and human ingenuity, it embodied the spirit of their unconventional existence.
 
-I may have played some wild rounds of disc golf in my time, but that night in the redwoods with the hippies will always hold a special place in my heart."
+Under the cloak of night, the forest embraced us, and we embraced it. Our discs, adorned with the glow of celestial luminescence, became ethereal messengers soaring through the velvety darkness. Each throw carried the weight of the universe, merging the physical and the metaphysical, as we danced through the labyrinth of the redwoods.
+
+The hippies showcased their prowess, effortlessly blending skill and reverence for the game. Yet, winning and losing mattered not in this hallowed realm. Our collective spirit transcended such earthly concerns. We reveled in the joy of camaraderie, celebrating the splendor of nature's creations and the harmonious connection we forged under the starlit sky.
+
+When the final putt found its mark, we gathered around the flickering flames of a campfire, our souls ignited by the warmth of friendship and tales from the course just hours ago. The night wore on, as time lost its grasp, and we bared our souls to the sacred silence of the redwoods. In those moments, my friend, I discovered the true essence of this disc golf life - a tapestry woven with threads of unity, adventure, and the intoxicating embrace of nature's wonders.
+
+As I bid farewell to the hippies and their mystical abode, the redwoods whispered their secrets, promising eternal memories etched deep within my soul. The sight of a soaring disc, glowing in the blackness of night aginst the backdrop of huckleberries and redwoods are as vivid now in my mind as they were that many years ago in my heart.
+
+And witht that, I say, may your own disc golf adventures be filled with the kind of magic that transcends the physical realm, forever imprinted upon your heart and inspiring you to seek the extraordinary in every toss of the disc.
