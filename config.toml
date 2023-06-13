@@ -93,9 +93,9 @@ darkmode = "dark"
       icon = "house"
 
   [[menu.main]]
-    identifier = "bag-tags"
+    identifier = "bagtags"
     name = "Bag Tags"
-    url = "/bag-tags/"
+    url = "/bagtags/"
     weight = 2
     [menu.main.params]
       icon = "tag"
