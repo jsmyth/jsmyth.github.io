@@ -21,7 +21,7 @@ At least once a year, Hobo Disc Golf will sponsor a local tournament to initiall
 | Date | Location | Event Type |
 | ---- | -------- | ----------- |
 | Jun 17 | Lost Lake, Grass Valley | AM Rush Tournament - Initial Seeding |
-| Jul 8 | Pioneer Park, Somerset | Casual All Tag Round |
+| TBD | TBD | Casual All Available Tag Round |
 
 ### Hobo Disc Golfers
 | Tag | Player |
