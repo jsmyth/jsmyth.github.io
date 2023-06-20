@@ -8,7 +8,7 @@ I will try to keep this as up-to-date and as accurate as I can in the possibilit
 
 | **JUNE** | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | -------- | --- | --- | --- | --- | --- | --- | --- |
-| 19th-25th | Dublin | San Jose | San Jose | San Jose | Citrus Heights | Sacramento | ???? |
+| 19th-25th | Dublin | San Jose | San Jose | San Jose | Citrus Heights | Sacramento | Auburn Regional (all tags round) |
 | 26th-30th | ???? | San Jose | San Jose | San Jose | ???? |  |  |
 
 | **JULY** | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
