@@ -7,7 +7,7 @@ image: /img/ed-putting-lost-lake.avif
 ---
 ![Disc golfer putting at a basket at Lost Lake DG Course in Grass Valley CA](/img/ed-putting-lost-lake.avif)
 
-If you weren't able to make it out last week, let me regail you with tales of tournaments and Hobo Disc Golf. Last weekend, an amazing event unfolded at Lost Lake Disc Golf Course in Grass Valley. It was the AM Rush tournament, a two-day extravaganza that also saw the debut of our very own Hobo DG Bag Tags.
+If you weren't able to make it out last week, let me regail you with tales of tournaments and Hobo Disc Golf. Last weekend, an amazing event unfolded at Lost Lake Disc Golf Course in Grass Valley. It was the AM Rush tournament, a two-day extravaganza that also saw the debut of our very own [Hobo DG Bag Tags](https://www.hobodiscgolf.com/bagtags/).
 
 As the sun began its descent on Friday evening, Hobo Joe, a true disciple of the hobo lifestyle, set up camp near the course, ready to embrace the freedom of the open road. With his trusty hobo sack and a heart filled with anticipation, he knew that this would be a weekend to remember.
 
