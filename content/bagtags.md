@@ -18,9 +18,10 @@ tags: [
 At least once a year, Hobo Disc Golf will sponsor a local tournament to initially seed and handout tags in-person as a community. This year we are sponsoring the [AM Rush Tournament](https://www.discgolfscene.com/tournaments/The_Am_Rush_2023) on June 17th and 18th 2023. Be sure to register today! However, if you are not able to make it to the tournament(s) for some reason (but what could be more important, really?) you can always catch Hobo Joe on the course or reach out to jim@hobodiscgolf.com to get yourself a tag and start playing other Hobo Disc Golfers. After that, you can challenge any Hobo DG player, anywhere, and after your rounds you can contact jim@hobodiscgolf.com to update your tag number in the table below, until our app is ready. We will also be posting tag dates where Hobo Joe and anyone else that is available will play a single round at a Northern California course. So get your tag and Go NoMad!
 
 ### Next Tag Event
+#### You do not need to have a tag currently to participate, there will be tags available for purchase at the variable price of $10-$15
 | Date | Location | Event | Time |
 | ---- | -------- | ---------- | ---- |
-| Jun 25 | Auburn Regional | Casual Any/All Available Tag Round | 10:00 AM |
+| Jun 25 | Auburn Regional | Casual Tag Round | 10:00 AM |
 | TBD | TBD | Casual Any/All Available Tag Round | TBD |
 
 ### Hobo Disc Golfers
