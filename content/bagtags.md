@@ -76,9 +76,9 @@ At least once a year, Hobo Disc Golf will sponsor a local tournament to initiall
 | 48 | [Gayle Key](https://www.pdga.com/player/17904) |
 | 49 | [Mathias](https://www.pdga.com/player/24180) |
 | 50 | [Serenity Madison](https://www.pdga.com/player/26720) |
-| 51 | [Will Riddler](https://www.pdga.com/player/144923) |
-| 52 | TBD |
-| 53 | TBD |
+| 51 | [Will Riddle](https://www.pdga.com/player/144923) |
+| 52 | Player To Be Named Later |
+| 53 | Player To Be Named Later |
 | 54 | []() |
 | 55 | []() |
 | 56 | []() |
