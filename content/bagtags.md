@@ -22,7 +22,8 @@ At least once a year, Hobo Disc Golf will sponsor a local tournament to initiall
 | Date | Location | Event | Time |
 | ---- | -------- | ---------- | ---- |
 | Jun 25 | Auburn Regional | Casual Tag Round | 10:00 AM |
-| TBD | TBD | Casual Any/All Available Tag Round | TBD |
+| Jul 16 | Micke Grove, Lodi | Casual Tag Round | 10:00 AM |
+| TBD | TBD | Casual Tag Round | 10:00 AM |
 
 ### Hobo Disc Golfers
 | Tag | Player |
