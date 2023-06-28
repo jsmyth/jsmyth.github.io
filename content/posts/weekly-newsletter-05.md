@@ -7,6 +7,8 @@ categories: [
   "Newsletter"
 ]
 ---
+![Hobo Joe throwing a backhand strecthing the rule of thirds with the title Hobo Disc Golf Weekly Newsletter off to the right in the clouds](/img/weekly-newsletter-banner.avif)
+
 Thanks to those that were able to make it out last week to our first casual tag meetup. Below is the upcoming schedule for the next meet-ups, hope to see you there! We're still plugging away on the game(s) and putting pieces together to pump up the bag tag rounds as well as trying to get an end of the year All Tags In event going, potentially in October. Be sure to keep an eye out here or on our socials to stay up to date.
 
 ### Upcoming Hobo DG Bag Tag Events
