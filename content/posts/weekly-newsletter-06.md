@@ -1,7 +1,7 @@
 ---
 title: "Weekly Newsletter: 06"
 date: 2023-07-05T09:27:33-07:00
-draft: true
+draft: false
 image: /img/hobo-logo-weekly-6.avif
 categories: [
   "Newsletter"
