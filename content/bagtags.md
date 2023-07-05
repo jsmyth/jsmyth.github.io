@@ -21,9 +21,9 @@ At least once a year, Hobo Disc Golf will sponsor a local tournament to initiall
 #### You do not need to have a tag currently to participate, there will be tags available for purchase at the variable price of $10-$15
 | Date | Location | Event | Time |
 | ---- | -------- | ---------- | ---- |
-| Jun 25 | Auburn Regional | Casual Tag Round | 10:00 AM |
 | Jul 16 | Micke Grove, Lodi | Casual Tag Round | 10:00 AM |
 | TBD | TBD | Casual Tag Round | 10:00 AM |
+| Oct 7 | East La Loma, Modesto | All Tags In! | TBD |
 
 ### Hobo Disc Golfers
 | Tag | Player |
