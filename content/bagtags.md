@@ -29,10 +29,10 @@ At least once a year, Hobo Disc Golf will sponsor a local tournament to initiall
 | Tag | Player |
 | --- | ------ |
 | 1 | [Chris Brobisky](https://www.pdga.com/player/171844) |
-| 2 | Steven Kendrick |
+| 2 | [Justin Gomes](https://www.pdga.com/player/174834) |
 | 3 | [Wesley Webster](https://www.pdga.com/player/130459) |
 | 4 | [Alex Mauche](https://www.pdga.com/player/167576) |
-| 5 | [Lucas Bischofberger](https://www.pdga.com/player/190996) |
+| 5 | Steven Kendrick |
 | 6 | [Derik Green](https://www.pdga.com/player/39783) |
 | 7 | [Rob Litchfield](https://www.pdga.com/player/156368) |
 | 8 | [Cannon Hollingsworth](https://www.pdga.com/player/161230) |
@@ -60,7 +60,7 @@ At least once a year, Hobo Disc Golf will sponsor a local tournament to initiall
 | 30 | Chris Mockus |
 | 31 | [Quantreal Nixon](https://www.pdga.com/player/12169) |
 | 32 | [Chad Dugas](https://www.pdga.com/player/58564) |
-| 33 | [Justin Gomes](https://www.pdga.com/player/174834) |
+| 33 | [Lucas Bischofberger](https://www.pdga.com/player/190996) |
 | 34 | [Paul Paul Thompson](https://www.pdga.com/player/193119) |
 | 35 | [Earl Erdman Jr](https://www.pdga.com/player/240275) |
 | 36 | [Manuel Cecenas](https://www.pdga.com/player/236177) |
