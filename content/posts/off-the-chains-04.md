@@ -2,7 +2,7 @@
 title: "Off the Chains: 04"
 subtitle: "The Wild and Untold Disc Golf Adventures of Chains McGraw"
 date: 2023-08-21
-draft: true
+draft: false
 image: /img/mj-brooktrails.png
 thumbnail: /img/mj-brooktrails.png
 categories: [
