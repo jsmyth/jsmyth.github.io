@@ -1,7 +1,7 @@
 ---
 title: "Off the Chains: 04"
 subtitle: "The Wild and Untold Disc Golf Adventures of Chains McGraw"
-date: 2023-05-08T11:47:16-07:00
+date: 2023-08-21
 draft: true
 image: /img/mj-brooktrails.png
 thumbnail: /img/mj-brooktrails.png
@@ -17,7 +17,7 @@ Chains McGraw: "Now that's a good question. So many to choose from throughout th
 
 The thing that really sets Brooktrails apart, though, is the way the disc golf course is integrated into the natural surroundings. The green golf greens and fairways wind their way through the towering redwoods, creating a magical landscape that's both surreal and breathtaking. The contrast of the bright green grass against the towering red giants of the forest is a sight to behold, and one that's hard to forget.
 
-I remember one time in particular when I was playing a round at Brooktrails. It was a warm, sunny day, and the light was filtering down through the trees in a way that made everything seem almost ethereal. I was standing on the tee of hole 6, a long, winding fairway that disappeared into the woods. As I looked down the fairway, I was struck by the sheer beauty of the scene before me. The green grass was like a ribbon winding its way through the forest, while the redwoods towered above like silent sentinels. It was a moment of pure, unadulterated awe.
+I remember one time in particular when I was playing a round at Brooktrails. It was a warm, sunny day, and the light was filtering down through the trees in a way that made everything seem almost ethereal. I was standing on the tee pad of a long, winding fairway that disappeared into the woods. As I looked down the fairway, I was struck by the sheer beauty of the scene before me. The green grass was like a ribbon winding its way through the forest, while the redwoods towered above like silent sentinels. It was a moment of pure, unadulterated awe.
 
 As I made my way down the fairway, I couldn't help but feel like I was a part of something greater than myself. The way the course was laid out, it felt like it had always been there, a natural extension of the forest itself. And as I threw my discs and watched them soar through the air, I was able to feel a sense of joy and freedom that's hard to come by in our busy, modern lives.
 
