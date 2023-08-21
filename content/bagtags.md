@@ -82,9 +82,9 @@ At least once a year, Hobo Disc Golf will sponsor a local tournament to initiall
 | 52 | Player To Be Named Later |
 | 53 | Player To Be Named Later |
 | 54 | [Jonathan Lingad](https://www.pdga.com/player/200082) |
-| 55 | []() |
-| 56 | []() |
-| 57 | []() |
+| 55 | [Cliff Brison](https://www.pdga.com/player/6240) |
+| 56 | [Kimbodia Brison](https://www.pdga.com/player/48129) |
+| 57 | [Michael Kennedy](https://www.pdga.com/player/140124) |
 | 58 | []() |
 | 59 | []() |
 | 60 | []() |
