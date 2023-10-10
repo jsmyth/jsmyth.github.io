@@ -46,7 +46,7 @@ At least once a year, Hobo Disc Golf will sponsor a local tournament to initiall
 | 16 | [Samuel Madison](https://www.pdga.com/player/153044) |
 | 17 | [Jahkhan Wright](https://www.pdga.com/player/161818) |
 | 18 | [Phil Shepherd](https://www.pdga.com/player/181849) |
-| 19 | [Hobo Joe](https://www.pdga.com/player/117044) |
+| 19 | [Tim Wiegert](https://www.pdga.com/player/157751) |
 | 20 | [Craig Myren](https://www.pdga.com/player/26280) |
 | 21 | [Sean Thompson](https://www.pdga.com/player/120547) |
 | 22 | [Jonathan Musser](https://www.pdga.com/player/150383) |
@@ -84,9 +84,9 @@ At least once a year, Hobo Disc Golf will sponsor a local tournament to initiall
 | 54 | [Jonathan Lingad](https://www.pdga.com/player/200082) |
 | 55 | [Cliff Brison](https://www.pdga.com/player/6240) |
 | 56 | [Kimbodia Brison](https://www.pdga.com/player/48129) |
-| 57 | [Michael Kennedy](https://www.pdga.com/player/140124) |
-| 58 | []() |
-| 59 | []() |
+| 57 | [Hobo Joe](https://www.pdga.com/player/117044) |
+| 58 | [Michael Kennedy](https://www.pdga.com/player/140124) |
+| 59 | [Michael Conover](https://www.pdga.com/player/122348) |
 | 60 | []() |
 | 61 | []() |
 | 62 | []() |
