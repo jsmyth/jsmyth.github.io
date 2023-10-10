@@ -19,7 +19,7 @@ I trudged on, my trusty map clutched in my hand. But the map might as well have 
 
 But then, in the distance, I saw something that gave me hope: a glimmer of light. I stumbled towards it, my heart pounding with excitement. And what I found was a miracle: a small cabin, nestled in a clearing. The owner, a grizzled old man with a long white beard, took me in and gave me shelter.
 
-Over the next few days, I learned the art of survival from the old man. He taught me how to find food in the wilderness, how to start a fire, and how to navigate without a compass. And in the evenings, we played disc golf together, using trees as makeshift targets.
+Over the next few days, I learned the art of survival from the old man. He taught me how to find food in the wilderness, how to start a fire, and how to navigate without a compass. And in the evenings, we played disc golf together, using trees as targets.
 
 But eventually, I knew I had to leave. I thanked the old man for his kindness and set out again, my map now crumpled and torn, but my spirit unbroken. And after several more days of wandering, I finally stumbled upon a road. A car appeared in the distance, and I flagged it down.
 
