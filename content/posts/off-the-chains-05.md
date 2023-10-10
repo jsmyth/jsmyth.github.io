@@ -9,6 +9,8 @@ categories: [
   "off-the-chains"
 ]
 ---
+![4X4 vehicle driving on an unknown dirt road along side the Snake River](/img/offthechains05.avif)
+
 *"So, going back to that road trip in '76 in the Rockies, where did you end up after that?"*
 
 Chains McGraw: "Well, let's see, it was the summer of '76, so that's when I had come down off the mountain and ended up finding an unknown road that followed the Snake River. I found myself deep in the heart of Idaho with nothing but a map and a bag full of discs. I was on a mission to explore the uncharted territories of the disc golf world and nothing was going to stop me. But little did I know, my thirst for adventure was about to be tested like never before.
