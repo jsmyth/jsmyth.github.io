@@ -21,8 +21,8 @@ At least once a year, Hobo Disc Golf will sponsor a local tournament to initiall
 #### You do not need to have a tag currently to participate, there will be tags available for purchase at the variable price of $10-$15
 | Date | Location | Event | Time |
 | ---- | -------- | ---------- | ---- |
-| Oct 7 | East La Loma, Modesto | All Tags In! | TBD |
-| TBD | TBD | End of Year Bash | TBD |
+| Oct 7 | East La Loma, Modesto | All Tags In! | 8:00 am |
+| Dec 16 | Feather Garden | [Feather Garden Donation Event](https://www.discgolfscene.com/tournaments/Feather_Garden_Donation_Event_2023) | TBD |
 
 ### Hobo Disc Golfers
 | Tag | Player |
