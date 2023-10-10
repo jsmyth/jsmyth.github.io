@@ -2,9 +2,9 @@
 title: "Off the Chains: 05"
 subtitle: "The Wild and Untold Disc Golf Adventures of Chains McGraw"
 date: 2023-05-08T12:10:01-07:00
-draft: true
-image: /img/__CHANGE_ME__
-thumbnail: /img/__CHANGE_ME__
+draft: false
+image: /img/offthechains05.avif
+thumbnail: /img/offthechains05.avif
 categories: [
   "off-the-chains"
 ]
