@@ -23,4 +23,4 @@ Over the next few days, I learned the art of survival from the old man. He taugh
 
 But eventually, I knew I had to leave. I thanked the old man for his kindness and set out again, my map now crumpled and torn, but my spirit unbroken. And after several more days of wandering, I finally stumbled upon a road. A car appeared in the distance, and I flagged it down.
 
-Looking back on that adventure, I realized that it wasn't just about finding my way back to civilization. It was about discovering the true spirit of disc golf: the ability to adapt to any situation, to never give up, and to find joy in the journey. That's what makes disc golf so much more than what meets the eye."
+Looking back on that adventure, I realized that it wasn't just about finding my way back to civilization. It was about discovering the true spirit of disc golf: the ability to adapt to any situation, to never give up, and to find joy in the journey. And what better analogy for life itelf is there than that? That, my man, is what makes disc golf so much more than what meets the eye."
